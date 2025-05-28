@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FarhatI0036
-- 👀 I’m interested in Learning coding/programming/hacking👀!
-- 🌱 I’m currently learning FULL STACK WEB DEVELOPMENT.
-- 💞️ I’m looking to collaborate on ...
+- 👀 Learning coding/programming👀!
+- 🌱 I've completed my Internship in FULL STACK WEB DEVELOPMENT🖥️.
+- 💞️ I’m looking to collaborate on Front End, LOGO Design, Video Editing, Website Design, DM me for more...
 - 📫 How to reach me ifarhat759@gmail.com
 
 <!---
